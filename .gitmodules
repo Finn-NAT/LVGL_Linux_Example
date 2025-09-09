@@ -1,0 +1,6 @@
+[submodule "Linux_LVGL_Examples/lvgl"]
+	path = Linux_LVGL_Examples/lvgl
+	url = https://github.com/lvgl/lvgl.git
+[submodule "Linux_LVGL_Examples/lv_drivers"]
+	path = Linux_LVGL_Examples/lv_drivers
+	url = https://github.com/lvgl/lv_drivers.git

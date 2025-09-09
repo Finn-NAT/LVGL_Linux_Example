@@ -1,0 +1,8 @@
+#ignore all files in the directory
+Linux_LVGL_Examples/build/*
+Linux_LVGL_Examples/lvgl.local/
+Linux_LVGL_Examples/lv_drivers.local/
+Cross_Compiler/gcc-arm-10.3-2021.07-x86_64-arm-none-linux-gnueabihf/*
+
+.vscode/
+**/.vscode/
